@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7b4201-d844-4d63-8a20-093e8922fe69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FundPerformanceAttribution.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Benchmark_index.csv" afterPath="$PROJECT_DIR$/Benchmark_index.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FundPerformanceAttribution.ipynb" afterPath="$PROJECT_DIR$/FundPerformanceAttribution.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Target_Active_Funds.csv" afterPath="$PROJECT_DIR$/Target_Active_Funds.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/FundPerformanceAttribution.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="10" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -70,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -86,6 +82,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,6 +281,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FundPerformanceAttribution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FundPerformanceAttribution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FundPerformanceAttribution.ipynb.py" />
     <entry file="file://$PROJECT_DIR$/FundPerformanceAttribution.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -295,7 +306,7 @@
     <entry file="file://$PROJECT_DIR$/FundPerformanceAttribution.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="10" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
